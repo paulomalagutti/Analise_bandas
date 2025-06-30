@@ -1,6 +1,4 @@
 # Analise_bandas
-�
-�
  Guia do Analisador de Bandas e Músicas
  📋
  Visão Geral do Projeto
